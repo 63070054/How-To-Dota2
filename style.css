@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face{
+    src: url(fonts/OPTIwtcGoudy-Medium.otf);
+    font-family: nos;
+}
